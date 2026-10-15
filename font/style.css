@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Subhra;
+    src: url('./magnetic-italic.ttf');
+
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+html,body{
+    width:100%;
+    height:300px;
+    background-color: blanchedalmond;
+    font-size: 30px;
+    font-weight: 100;
+    font-style: italic;
+
+}

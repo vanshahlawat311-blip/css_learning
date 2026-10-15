@@ -1,0 +1,46 @@
+@import url("./utils.css");
+
+:root{
+    --primary-color:#ffffff;
+    --text-color:#2e2e2e;
+}
+
+8{
+    margin:0px;
+    padding : 0 px;
+    box-sizing: border-box;
+
+}
+
+html,body{
+    width: 100%;
+    height: 100&;
+}
+body{
+    background-color: var(--primary-color);
+}
+header{
+    background-color: aliceblue;
+    border-bottom-width: 1px;
+    border-color: black;
+    border-bottom: #2e2e2e33;
+    solid 1px;
+}
+.header-overlay{
+    padding : 30px 50 px;
+    width: 90%;
+
+}
+nav>ul{
+    list-style: none;
+    gap: 30px;
+    font-size: 20px;
+}
+.header-overlay>ul{
+    list-style: none;
+    gap: 20px;
+    fornt-size: 20px ;
+    a{
+        color: var(--text-color):
+    }
+}

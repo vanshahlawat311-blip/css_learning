@@ -1,0 +1,9 @@
+.flex{
+    display : flex;
+}
+.justify-betwwee{
+    justify-content: space-between;
+}
+.margin-auto{
+    margin: auto;
+}
