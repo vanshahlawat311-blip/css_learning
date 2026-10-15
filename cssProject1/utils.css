@@ -1,7 +1,7 @@
 .flex{
     display : flex;
 }
-.justify-betwwee{
+.justify-betwween{
     justify-content: space-between;
 }
 .margin-auto{
